@@ -1,0 +1,183 @@
+
+<html lang="ar">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>سيرة ذاتية </title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background:#fff;
+      color: #333;
+      margin: 10px auto;
+      max-width: 700px;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(218, 209, 209, 0.1);
+      background: linear-gradient(135deg, #e0eafc, #cfdef3);
+      border-radius: 12px;
+      direction: rtl;
+      text-align: right;
+    }
+     h1 {
+      text-align: center;
+      color: #0077b6;
+      margin-bottom: 10px;
+    }
+    header h1 span {
+      font-size: 24px;
+      font-weight: bold;
+      color: #979ea8;
+    }
+    section {
+    margin-bottom:  25px;
+    background: #fff;
+    padding: 15px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.05);
+    }
+    section h2 {
+      color: #0077b6;
+      border-bottom: 2px solid #0077b6;
+      padding-bottom: 6px;
+      margin-bottom: 12px;
+    }
+    ul {
+      list-style: none;
+      padding-right: 15px;
+    }
+    ul li {
+      margin-bottom: 10px;
+      position: relative;
+      padding-right: 18px;
+font-size: 16px;
+    }
+    
+    footer {
+      text-align: center;
+      font-size: 14px;
+      color: #555;
+      margin-top: 30px;
+      border-top: 1px solid #ddd;
+      padding-top: 10px;
+    }
+    footer p {
+      margin: 4px 0;
+    }
+    .stars {
+      color: #ffb400;
+      font-size: 18px;
+      display: inline-block;
+      vertical-align:middle;
+    }
+    /* مهارات - مخطط صغير */
+    .skill-bar {
+      background: #ddd;
+      border-radius: 10px;
+      overflow: hidden;
+      height: 10px;
+      width: 150px;
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 10px;
+    }
+    .skill-fill {
+      background: #288ccf;
+      height: 100%;
+      border-radius: 10px 0 0 10px;
+    }
+  </style>
+</head>
+<body>
+ 
+  <section>
+    <h1>سيرة ذاتية</h1>
+    <h2>المعلومات الشخصية</h2>
+    <ul>
+        <li>بشرى مجاهد صالح الكينعي</li>
+      <li>الجنسية: يمنية   </li>
+      <li>🎂27/1/2002</li>
+      <li>📍اليمن- تعز</li>
+      <li>📞967730772700+</li>
+  </li>
+      <li>✉️ البريد الإلكتروني: alaqhwan554@gmail.com</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>الهدف الوظيفي</h2><p>أسعى للحصول على وظيفة تناسب مهاراتي في نظم المعلومات الإدارية، وأطمح لتطوير مهاراتي وخبراتي في بيئة عمل محفزة.</p>
+  </section>
+
+  <section>
+    <h2>المؤهلات التعليمية</h2>
+    <ul>
+      <li>ثانوية عامة (٢٠١٨ - ٢٠١٩) <br> معدل: ٩٣.١٣، التقدير: ممتاز</li>
+      <li>دبلوم إنجليزي - معهد يمن تك (٢٠٢٠ - ٢٠٢١) - التقدير: جيد جدًا</li>
+      <li>بكالوريوس نظم معلومات إدارية - جامعة الحكمة (٢٠٢٦ - ٢٠٢٧)</li>
+      
+     </ul>
+  </section>
+
+  <section>
+    <h2>الدورات التدريبية</h2>
+    <ul>
+<li>دورات تنمية بشرية :</li>
+          <li>المدرب مختار الشرعبي (٢٠٢٠ - ٢٠٢١)</li>
+          <li>المدرب محمد طه الحبيشي (٢٠٢١ - ٢٠٢٢)</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>الخبرات الوظيفية</h2>
+    <ul>
+      <li>معلمة لغة عربية - مدارس التربية الحديثة (٢٠٢٠ - ٢٠٢١)</li>
+      <li>معلمة لغة إنجليزية - مدرسة الجيل الواعد (٢٠٢١ - ٢٠٢٢)</li>
+      <li>معلمة لغة عربية - مدرسة دروب المعالي (٢٠٢٢ - ٢٠٢٤)</li>
+      <li>معلمة لغة عربية - مدارس الفهد الدولية (٢٠٢٤ - ٢٠٢٥)</li>
+      <li>معلمة لغة عربية - مدارس التعليمية المتميزة (٢٠٢٥ - ٢٠٢٦)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>المهارات</h2>
+    <ul>
+      <li>
+        مهارة الكتابة النثرية:
+        <div class="skill-bar">
+          <div class="skill-fill" style="width:90%;"></div>
+        </div>
+    </li>
+    <li>
+      مهارة الإلقاء:
+      <div class="skill-bar">
+        <div class="skill-fill" style="width:80%;"></div>
+      </div>
+    </li>
+    <li>
+      مهارة الرسم:
+      <div class="skill-bar">
+        <div class="skill-fill" style="width:70%;"></div>
+      </div>
+    </li>
+  </ul>
+</section>
+
+<section>
+  <h2>اللغات</h2>
+  <ul>
+    <li>العربية: <span class="stars">⭐⭐⭐⭐⭐</span></li>
+    <li>الإنجليزية: <span class="stars">⭐⭐⭐⭐</span></li>
+  </ul>
+</section>
+
+<footer>
+  <p>
+    <p>@جميع الحقوق محفوظة</p>
+    <a href="tel:+967730772700"><i class="fas fa-phone-alt"></i> اتصل بي</a> |
+    <a href="mailto:alaqhwan554@gmail.com"><i class="fas fa-envelope"></i> راسلني</a>
+  </p>
+  <p>  📞967730772700+ | ✉️ alaqhwan554@gmail.com | 📍 تعز - اليمن</p>
+</footer>
+</body>
+</html>
